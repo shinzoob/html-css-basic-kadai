@@ -8,8 +8,8 @@ body{
 }
 
 h1{
-    font-family:Josefin Sans, "sans-serif";
-    font-size: 2em;
+    font-family:"Josefin Sans", sans-serif;
+    font-size: 2rem;
     letter-spacing: 1.2em;
     text-shadow: 1px 2px 2px blueviolet;
     border-bottom: 3px solid rgb(115, 115, 114);
